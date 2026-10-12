@@ -1,5 +1,7 @@
 **Nombre del proyecto:** Generador Seguro de Contraseñas (Enfoque en Memoria Volátil)
+
 **Integrantes:** Sebastián Guerra
+
 **Fecha:** 11 de Octubre de 2026
 
 **Objetivo del sistema:**
